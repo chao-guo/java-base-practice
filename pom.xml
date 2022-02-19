@@ -10,6 +10,7 @@
     <modules>
         <module>designpattern</module>
         <module>value</module>
+        <module>config</module>
     </modules>
 
     <packaging>pom</packaging>
